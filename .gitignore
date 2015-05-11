@@ -1,0 +1,13 @@
+*.pdf
+*.jpg
+*.doc
+*.docx*
+*.zip
+*.synctex.gz
+*.out
+*.aux
+*.log
+*.blg
+*.bbl
+*.bcf
+*.xml
